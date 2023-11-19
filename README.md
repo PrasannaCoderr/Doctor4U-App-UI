@@ -1,7 +1,7 @@
 # DoctorApp
 
-# What you learn after complete these app.
-- beautiful Ui Design.
+# What We as a team Binary Wizards learn after completing these app project for Geek Vishwa!
+- Ui Design.
 - linearLayout,Relative Layout,GridView,constraint Layout.
 - used third party library.
 - how to create new activity.
